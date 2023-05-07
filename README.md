@@ -10,7 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/vincentgonzalez123/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/vincentgonzalez123/azure-network-protocols)
 - <b>PowerShell</b>
-  -  [Active Directory Bulk User Creation](https://github.com/vincentgonzalez123/configure-ad)
+  -  [Active Directory Bulk User Creation](https://github.com/VincentGonzalez123/AD_PowerShell/blob/main/Generate-Names-Create-Users.ps1)
 
 <h2>🤳Connect with me:</h2>
 
